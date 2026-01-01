@@ -18,10 +18,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadjihcs&theme=tokyonight&hide_border=false" alt="Streak" />
 </p>
 
-### 🏆 Codeforces Status:
+### 🏆 Competitive Programming:
+<p align="center">
+  <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://codeforces.com/profile/wadjihcs">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=wadjihcs&theme=dark" alt="Codeforces Stats" />
+    <img src="https://cf-stats.herokuapp.com/user/wadjihcs" alt="Codeforces Stats" />
   </a>
 </p>
 
