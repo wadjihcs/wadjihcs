@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Wadjih%20|%20Software%20Engineer&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wadjihcs&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
-</p>
-
 # 💫 About Me:
 "I am a 2nd-year Computer Science student driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. **Currently specializing in Java, C++, System Design, and Clean Architecture**, I treat every problem as a test of logic and grit. I believe in writing code that is not just functional, but scalable and maintainable.
 
@@ -24,13 +20,17 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
   <img src="https://github-readme-stats.vercel.app/api?username=wadjihcs&theme=tokyonight&show_icons=true" width="400" />
 </p>
 
-### 🏆 Competitive Programming:
-<p align="center">
+### 🏆 Competitive Programming (Codeforces):
+<p align="left">
   <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Codeforces-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-red?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Rank-Active%20Competitor-red?style=for-the-badge" />
 </p>
+
+> **Handle:** [wadjihcs](https://codeforces.com/profile/wadjihcs)  
+> **Target:** Specialist Rank  
+> **Progress to next Milestone:** > ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
 ---
 
@@ -53,7 +53,10 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
   </a>
 </p>
 
+---
+
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadjihcs&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br>
   <i>"Execution is the only thing that matters."</i>
 </p>
