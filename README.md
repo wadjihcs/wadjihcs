@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Wadjih+|+CS+Student;Hardcore+Execution;Discipline+>+Motivation" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Wadjih%20|%20Software%20Engineer&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -7,29 +7,29 @@
 </p>
 
 # 💫 About Me:
-"I am a 2nd-year Computer Science student driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. Currently specializing in C++ and Competitive Programming, I treat every problem as a test of logic and grit.<br><br>Beyond the screen, I apply the same intensity to sports and physical training. I believe a strong mind requires a strong body, and I translate the discipline of the gym into the precision of my code. Focused, strict, and relentless—I am building a career where zero-margin for error is the standard."
+"I am a 2nd-year Computer Science student driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. **Currently specializing in Java, C++, System Design, and Clean Architecture**, I treat every problem as a test of logic and grit. I believe in writing code that is not just functional, but scalable and maintainable.
+
+Beyond the screen, I apply the same intensity to sports and physical training. I believe a strong mind requires a strong body, and I translate the discipline of the gym into the precision of my code. Focused, strict, and relentless—I am building a career where zero-margin for error is the standard."
 
 # 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Category | Tools & Skills |
+| :--- | :--- |
+| **Core Languages** | **C++17, Java (LTS)**, Python, C |
+| **Architecture** | **System Design, Clean Architecture, SOLID Principles** |
+| **Tools & IDEs** | CLion, IntelliJ IDEA, Git, GitHub, Linux |
+| **Other Skills** | Arduino, Cisco Networking, Hardware Hardcoding |
 
-# 📊 GitHub Metrics:
+# 📊 Performance Metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadjihcs&theme=tokyonight&show_icons=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wadjihcs&theme=tokyonight&show_icons=true" width="400" />
 </p>
 
 ### 🏆 Competitive Programming:
 <p align="center">
   <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/CODEFORCES-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
   </a>
-  <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
-    <img src="https://img.shields.io/badge/RANK-UNRATED-lightgrey?style=for-the-badge" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-red?style=for-the-badge" height="35" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:wadjihcs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
