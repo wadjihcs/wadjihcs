@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Wadjih%20|%20CS%20Student&fontSize=50&animation=fadeIn" />
+  <img src="waves.jpg" />
 </p>
 
 # 💫 About Me:
