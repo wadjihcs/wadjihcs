@@ -12,7 +12,8 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
 # 💻 Tech Stack & Skills:
 | Category | Tools & Skills |
 | :--- | :--- |
-| **Core Languages** | **C++17, Java (LTS)**, Python, C, JavaScript, HTML/CSS |
+| **Core Languages** | **C++17, Java (LTS), C**, Python, JavaScript, HTML/CSS |
+| **Java Ecosystem** | **JavaFX, Swing**, Desktop Application Development |
 | **Architecture** | **System Design, Clean Architecture, SOLID Principles** |
 | **Design & Creative** | **Framer, Pixlr, Figma, DaVinci Resolve, CapCut** |
 | **Tools & DevOps** | **Git**, GitHub, Linux, CLion, IntelliJ IDEA, Docker |
