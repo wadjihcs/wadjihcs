@@ -18,8 +18,9 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
 | :--- | :--- |
 | **Core Languages** | **C++17, Java (LTS)**, Python, C, JavaScript, HTML/CSS |
 | **Architecture** | **System Design, Clean Architecture, SOLID Principles** |
-| **Tools & IDEs** | CLion, IntelliJ IDEA, Git, GitHub, Linux, VS Code, Figma |
-| **Other Skills** | Arduino, Cisco Networking, Hardware Hardcoding, Docker |
+| **Design & Creative** | **Framer, Pixlr, Figma, DaVinci Resolve, CapCut** |
+| **Tools & DevOps** | **Git**, GitHub, Linux, CLion, IntelliJ IDEA, Docker |
+| **Other Skills** | Arduino, Cisco Networking, Hardware Hardcoding |
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -41,7 +42,7 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
   <img src="https://img.shields.io/badge/Rank-Active%20Competitor-red?style=for-the-badge" />
 </p>
 
-> **Codeforces Target:** Specialist Rank  
+> **Handle:** [wadjihkr](https://projecteuler.net/profile/wadjihkr.png)  
 > **Math Milestone:** Solving 100+ Project Euler Problems  
 > **Overall Progress:** ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
