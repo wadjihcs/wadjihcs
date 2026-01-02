@@ -11,7 +11,7 @@
 # 💫 About Me:
 "I am a **2nd-year Computer Science student** driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. **Currently specializing in Java, C++, System Design, and Clean Architecture**, I treat every problem as a test of logic and grit. I believe in writing code that is not just functional, but scalable and maintainable.
 
-Beyond the screen, I apply the same intensity to sports and physical training. I believe a strong mind requires a strong body, and I translate the discipline of the gym into the precision of my code. Focused, strict, and relentless—I am building a career where zero-margin for error is the standard."
+Beyond the screen, I apply the same intensity to sports and physical training. **I have a deep passion for solving complex mathematical problems**, often bridging the gap between pure logic and efficient algorithms. I believe a strong mind requires a strong body, and I translate the discipline of the gym into the precision of my code. Focused, strict, and relentless—I am building a career where zero-margin for error is the standard."
 
 # 💻 Tech Stack & Skills:
 | Category | Tools & Skills |
@@ -30,16 +30,20 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wadjihcs&theme=dracula&radius=10" alt="wadjihcs's Activity Graph" />
 </p>
 
-### 🏆 Competitive Programming (Codeforces):
+### 🏆 Problem Solving & Competitive Programming:
 <p align="left">
   <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://projecteuler.net/profile/wadjihkr.png" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Euler-wadjihkr-orange?style=for-the-badge&logo=project-euler&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Rank-Active%20Competitor-red?style=for-the-badge" />
 </p>
 
-> **Handle:** [wadjihcs](https://codeforces.com/profile/wadjihcs)  
-> **Progress to next Milestone:** ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
+> **Codeforces Target:** Specialist Rank  
+> **Math Milestone:** Solving 100+ Project Euler Problems  
+> **Overall Progress:** ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
 ## 🔗 Connect with Me
 <p align="center">
