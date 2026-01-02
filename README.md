@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Wadjih%20|%20Software%20Engineer&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="your-image-name.jpg" width="400" style="border-radius: 50%;" alt="Wadjih Profile Picture" />
+</p>
 
 # 💫 About Me:
 "I am a 2nd-year Computer Science student driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. **Currently specializing in Java, C++, System Design, and Clean Architecture**, I treat every problem as a test of logic and grit. I believe in writing code that is not just functional, but scalable and maintainable.
@@ -12,27 +14,15 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
 # 💻 Tech Stack:
 | Category | Tools & Skills |
 | :--- | :--- |
-| **Core Languages** | **C++17, Java (LTS)**, Python, C, JavaScript |
+| **Core Languages** | **C++17, Java (LTS)**, Python, C |
 | **Architecture** | **System Design, Clean Architecture, SOLID Principles** |
-| **Tools & IDEs** | CLion, IntelliJ IDEA, Git, GitHub, Linux, Figma |
-| **Other Skills** | Arduino, Cisco Networking, Docker |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" /> 
-</p>
+| **Tools & IDEs** | CLion, IntelliJ IDEA, Git, GitHub, Linux |
+| **Other Skills** | Arduino, Cisco Networking, Hardware Hardcoding |
 
 # 📊 Performance Metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadjihcs&theme=tokyonight&show_icons=true" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=wadjihcs&theme=tokyonight&hide_border=true" width="400" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wadjihcs&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wadjihcs&theme=tokyonight&show_icons=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wadjihcs&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
 </p>
 
 ### 🏆 Competitive Programming (Codeforces):
@@ -67,18 +57,6 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  </picture>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
 ---
 
