@@ -28,4 +28,59 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
 </p>
 
 <p align="center">
-  <img height="280em" src="
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wadjihcs&theme=dracula&radius=10" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadjihcs&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+### 🏆 Competitive Programming (Codeforces):
+<p align="left">
+  <a href="https://codeforces.com/profile/wadjihcs" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-wadjihcs-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Rank-Active%20Competitor-red?style=for-the-badge" />
+</p>
+
+> **Handle:** [wadjihcs](https://codeforces.com/profile/wadjihcs)  
+> **Progress to next Milestone:** ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://discord.gg/wordxd" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wadjih-kr-4764b9325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/wadjihcs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.pinterest.com/wadjihcs/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="mailto:wadjihcs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadjihcs&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <br>
+  <i>"Execution is the only thing that matters."</i>
+</p>
