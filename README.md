@@ -43,7 +43,7 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
 </p>
 
 > **Handle:** [wadjihkr](https://projecteuler.net/profile/wadjihkr.png)  
-> **Math Milestone:** Solving 100+ Project Euler Problems  
+> **Codeforces Target:** Specialist Rank  
 > **Overall Progress:** ![Progress Bar](https://geps.dev/progress/25?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00)
 
 ## 🔗 Connect with Me
