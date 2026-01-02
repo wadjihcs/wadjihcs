@@ -1,12 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Welcome%20to%20Wadjih's%20Github%20Portfolio&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=wadjihcs">
-    <img src="https://komarev.com/ghpvc/?username=wadjihcs&label=Profile%20views&color=00FFFF&style=flat-square" alt="wadjihcs's profile views" />
-  </a>
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 </p>
-
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 # 💫 About Me:
 "I am a **2nd-year Computer Science student** driven by a strict, high-performance mindset. My approach to software engineering is rooted in discipline: I don't wait for motivation; I rely on execution. **Currently specializing in Java, C++, System Design, and Clean Architecture**, I treat every problem as a test of logic and grit. I believe in writing code that is not just functional, but scalable and maintainable.
@@ -76,3 +72,11 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadjihcs&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <br>
+  <i>"Execution is the only thing that matters."</i>
+</p>
