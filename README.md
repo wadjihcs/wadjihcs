@@ -1,6 +1,13 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Welcome%20to%20Wadjih's%20Github%20Portfolio&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm wadjihcs</h1>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=wadjihcs">
+    <img src="https://komarev.com/ghpvc/?username=wadjihcs&label=Profile%20views&color=00FFFF&style=flat-square" alt="wadjihcs's profile views" />
+  </a>
+</p>
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
@@ -17,18 +24,13 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
 | **Tools & IDEs** | CLion, IntelliJ IDEA, Git, GitHub, Linux, VS Code, Figma |
 | **Other Skills** | Arduino, Cisco Networking, Hardware Hardcoding, Docker |
 
-## 📊 Performance Metrics
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wadjihcs&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="wadjihcs's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadjihcs&theme=dracula&hide_border=true" alt="wadjihcs's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wadjihcs&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="wadjihcs's GitHub Stats" width="60%" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wadjihcs&theme=dracula&radius=10" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wadjihcs&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wadjihcs&theme=dracula&radius=10" alt="wadjihcs's Activity Graph" />
 </p>
 
 ### 🏆 Competitive Programming (Codeforces):
@@ -48,4 +50,27 @@ Beyond the screen, I apply the same intensity to sports and physical training. I
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wadjih-kr-4764b9325/" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/wadjihcs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.pinterest.com/wadjihcs/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="mailto:wadjihcs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
