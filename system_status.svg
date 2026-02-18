@@ -11,10 +11,10 @@
       <feComposite in="SourceGraphic" in2="glow" operator="over" />
     </filter>
     
-    <clipPath id="clip1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="0.5s" fill="freeze" /></rect></clipPath>
-    <clipPath id="clip2"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="1.5s" fill="freeze" /></rect></clipPath>
-    <clipPath id="clip3"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="2.5s" fill="freeze" /></rect></clipPath>
-    <clipPath id="clip4"><rect x="0" y="0" width="0" height="150"><animate attributeName="width" from="0" to="800" dur="1s" begin="4s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="0.8s" begin="0.5s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="0.8s" begin="1.3s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="0.8s" begin="2.1s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip4"><rect x="0" y="0" width="0" height="150"><animate attributeName="width" from="0" to="800" dur="1s" begin="3s" fill="freeze" /></rect></clipPath>
   </defs>
 
   <rect x="10" y="8" width="960" height="600" rx="15" fill="#050B14" />
@@ -24,15 +24,12 @@
           stroke="#BC13FE" stroke-width="4" fill="none">
       <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
     </path>
-    <path d="M250 40 L730 40 M250 570 L730 570" stroke="#BC13FE" stroke-width="1.5" opacity="0.5" />
   </g>
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
-    
-    .title { font-family: 'Orbitron', sans-serif; fill: #00D1FF; font-size: 26px; font-weight: bold; letter-spacing: 5px; filter: url(#cyanGlow); }
-    .label { font-family: 'Share Tech Mono', monospace; fill: #00D1FF; font-size: 18px; font-weight: bold; letter-spacing: 1px; }
-    .content { font-family: 'Share Tech Mono', monospace; fill: #E0F7FF; font-size: 18px; }
+    .title { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #00D1FF; font-size: 26px; font-weight: 900; letter-spacing: 5px; filter: url(#cyanGlow); }
+    .label { font-family: 'Courier New', Courier, monospace; fill: #00D1FF; font-size: 18px; font-weight: bold; }
+    .content { font-family: 'Courier New', Courier, monospace; fill: #E0F7FF; font-size: 18px; }
     
     @keyframes flicker {
       0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
@@ -61,10 +58,10 @@
   </g>
 
   <g transform="translate(150, 320)">
-    <text class="label" style="fill:#FFC700; font-family: 'Orbitron'; font-size: 15px;">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
+    <text class="label" style="fill:#FFC700; font-size: 15px;">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
     <rect y="25" width="680" height="10" rx="5" fill="#111" stroke="#00D1FF" stroke-opacity="0.2"/>
     <rect y="25" width="0" height="10" rx="5" fill="#BC13FE" filter="url(#purpleGlow)">
-      <animate attributeName="width" from="0" to="480" dur="2s" begin="3.5s" fill="freeze" />
+      <animate attributeName="width" from="0" to="480" dur="2s" begin="3s" fill="freeze" />
     </rect>
   </g>
 
@@ -77,6 +74,6 @@
 
   <text x="490" y="560" text-anchor="middle" class="content" font-style="italic" font-size="15" opacity="0">
     "Execution is the only thing that matters."
-    <animate attributeName="opacity" from="0" to="0.6" dur="1s" begin="5s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="0.6" dur="1s" begin="4.5s" fill="freeze" />
   </text>
 </svg>
