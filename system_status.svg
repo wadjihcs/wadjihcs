@@ -1,58 +1,66 @@
 <svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="8" width="960" height="600" rx="15" fill="#050B14" stroke="#00D1FF" stroke-width="3"/>
+  <defs>
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="purpleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feFlood flood-color="#BC13FE" flood-opacity="0.8" result="color" />
+      <feComposite in="color" in2="blur" operator="in" result="glow" />
+      <feComposite in="SourceGraphic" in2="glow" operator="over" />
+    </filter>
+  </defs>
+
+  <rect x="10" y="8" width="960" height="600" rx="15" fill="#050B14" />
   
+  <path d="M100 50 L50 50 L50 150 M50 450 L50 550 L150 550 M830 550 L930 550 L930 450 M930 150 L930 50 L830 50" 
+        stroke="#BC13FE" stroke-width="4" fill="none" filter="url(#purpleGlow)" opacity="0.8" />
+  <path d="M250 40 L730 40 M250 570 L730 570" stroke="#BC13FE" stroke-width="2" filter="url(#purpleGlow)" opacity="0.5" />
+
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
-    .system-font { font-family: 'Share Tech Mono', monospace; }
-    .label { fill: #00D1FF; font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; }
-    .content { fill: #E0F7FF; font-size: 16px; opacity: 0; }
-    .highlight { fill: #7B2CBF; font-weight: bold; filter: drop-shadow(0 0 5px #7B2CBF); }
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Share+Tech+Mono&amp;display=swap');
+    .title { font-family: 'Orbitron', sans-serif; fill: #00D1FF; font-size: 28px; font-weight: bold; letter-spacing: 4px; filter: url(#cyanGlow); }
+    .label { font-family: 'Share Tech Mono', monospace; fill: #00D1FF; font-size: 18px; font-weight: bold; }
+    .content { font-family: 'Share Tech Mono', monospace; fill: #E0F7FF; font-size: 18px; opacity: 0; }
+    .quest-title { font-family: 'Orbitron', sans-serif; fill: #FFC700; font-size: 16px; font-weight: bold; }
     
     @keyframes fadeIn { to { opacity: 1; } }
-    @keyframes scanline { from { transform: translateY(0); } to { transform: translateY(580px); } }
+    @keyframes progress { from { width: 0; } to { width: 320px; } }
     
-    .f1 { animation: fadeIn 0.5s ease forwards 0.5s; }
-    .f2 { animation: fadeIn 0.5s ease forwards 1.2s; }
-    .f3 { animation: fadeIn 0.5s ease forwards 2.0s; }
-    .f4 { animation: fadeIn 0.5s ease forwards 2.8s; }
+    .f1 { animation: fadeIn 0.4s ease forwards 0.5s; }
+    .f2 { animation: fadeIn 0.4s ease forwards 1.2s; }
+    .f3 { animation: fadeIn 0.4s ease forwards 2.0s; }
+    .bar-anim { animation: progress 2s ease-out forwards 1.5s; }
   </style>
 
-  <rect x="10" y="8" width="960" height="5" fill="#00D1FF" fill-opacity="0.1">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 590" dur="3s" repeatCount="indefinite" />
-  </rect>
+  <text x="490" y="90" text-anchor="middle" class="title">---- PLAYER STATUS: WADJIH ----</text>
 
-  <text x="490" y="50" text-anchor="middle" class="system-font label" font-size="22">── PLAYER STATUS: WADJIH ──</text>
-  
-  <g transform="translate(50, 100)">
-    <text class="system-font label">Rank:</text>
-    <text x="120" class="system-font content f1" style="fill:#00FF94">S-RANK (Student/Developer)</text>
+  <g transform="translate(150, 160)">
+    <text class="label">RANK:</text>
+    <text x="100" class="content f1" style="fill:#00FF94">S-RANK (Computer Science)</text>
     
-    <text y="40" class="system-font label">Class:</text>
-    <text x="120" y="40" class="system-font content f1">System Architect / Shadow Monarch</text>
+    <text y="40" class="label">CLASS:</text>
+    <text x="100" y="40" class="content f1">System Architect / Shadow Monarch</text>
     
-    <text y="80" class="system-font label">Title:</text>
-    <text x="120" y="80" class="system-font content f1" fill="#7B2CBF">The Relentless Executor</text>
+    <text y="80" class="label">TITLE:</text>
+    <text x="100" y="80" class="content f1" style="fill:#BC13FE; filter: url(#purpleGlow);">The Relentless Executor</text>
   </g>
 
-  <g transform="translate(50, 240)">
-    <text class="system-font label" fill="#FFC700">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
-    <text y="35" class="system-font content f2">- Solve 3 Project Euler Problems [3/3]</text>
-    <text y="65" class="system-font content f2">- Refactor Clean Architecture Module [1/1]</text>
-    <text y="95" class="system-font content f2">- Physical Training: Strength &amp; Grit [DONE]</text>
-    <rect y="110" width="400" height="10" rx="5" fill="#1A1A1A"/>
-    <rect y="110" width="320" height="10" rx="5" fill="#00FF94" class="f2"/>
+  <g transform="translate(150, 300)">
+    <text class="quest-title">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
+    <rect y="25" width="680" height="12" rx="6" fill="#1A1A1A" stroke="#E0F7FF" stroke-opacity="0.2"/>
+    <rect y="25" width="0" height="12" rx="6" fill="#BC13FE" class="bar-anim" filter="url(#purpleGlow)"/>
   </g>
 
-  <g transform="translate(550, 100)">
-    <text class="system-font label">Active Skills:</text>
-    <text y="35" class="system-font content f3">▶ Java Ecosystem (Lvl. 85)</text>
-    <text y="65" class="system-font content f3">▶ C++ Hardcoding (Lvl. 92)</text>
-    <text y="95" class="system-font content f3">▶ System Design (Lvl. 78)</text>
-    <text y="125" class="system-font content f3">▶ Logic Execution (MAX)</text>
+  <g transform="translate(150, 400)">
+    <text class="label" style="text-decoration: underline;">ACTIVE SKILLS:</text>
+    <text y="35" class="content f2">▶ C++17 Hardcoding (Lvl. 92)</text>
+    <text y="65" class="content f2">▶ Java Clean Architecture (Lvl. 88)</text>
+    <text y="95" class="content f2">▶ System Design &amp; Logic (Lvl. 80)</text>
   </g>
 
-  <g transform="translate(50, 500)">
-    <text class="system-font label" font-size="14" fill="#E0F7FF" opacity="0.6">System Notice:</text>
-    <text y="30" class="system-font content f4" fill="#00D1FF" font-size="18">"Execution is the only thing that matters. Don't stop until you reach the top."</text>
-  </g>
+  <text x="490" y="540" text-anchor="middle" class="content f3" font-style="italic" font-size="16" opacity="0.7">
+    "Execution is the only thing that matters. Don't stop until you reach the top."
+  </text>
 </svg>
