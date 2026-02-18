@@ -10,77 +10,73 @@
       <feComposite in="color" in2="blur" operator="in" result="glow" />
       <feComposite in="SourceGraphic" in2="glow" operator="over" />
     </filter>
+    
+    <clipPath id="clip1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="0.5s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="1.5s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="800" dur="1s" begin="2.5s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip4"><rect x="0" y="0" width="0" height="150"><animate attributeName="width" from="0" to="800" dur="1s" begin="4s" fill="freeze" /></rect></clipPath>
   </defs>
 
   <rect x="10" y="8" width="960" height="600" rx="15" fill="#050B14" />
   
-  <path d="M100 50 L50 50 L50 150 M50 450 L50 550 L150 550 M830 550 L930 550 L930 450 M930 150 L930 50 L830 50" 
-        stroke="#BC13FE" stroke-width="4" fill="none" filter="url(#purpleGlow)">
-    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
-  </path>
-
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Share+Tech+Mono&amp;display=swap');
-    
-    .title { font-family: 'Orbitron', sans-serif; fill: #00D1FF; font-size: 28px; font-weight: bold; letter-spacing: 4px; filter: url(#cyanGlow); }
-    .label { font-family: 'Share Tech Mono', monospace; fill: #00D1FF; font-size: 18px; font-weight: bold; }
-    .content { font-family: 'Share Tech Mono', monospace; fill: #E0F7FF; font-size: 18px; white-space: nowrap; }
-    
-    /* Typing Animation Logic */
-    .typing {
-      overflow: hidden;
-      display: block;
-      stroke: none;
-      clip-path: inset(0 100% 0 0);
-      animation: type-anim 1.5s steps(40) forwards;
-    }
-
-    @keyframes type-anim {
-      to { clip-path: inset(0 0 0 0); }
-    }
-
-    /* Flicker effect for S-Rank */
-    @keyframes flicker {
-      0%, 18%, 22%, 25%, 53%, 57%, 100% { opacity: 1; }
-      20%, 24%, 55% { opacity: 0.3; }
-    }
-    .s-rank-glow { animation: flicker 4s infinite; }
-
-    .delay-1 { animation-delay: 0.5s; }
-    .delay-2 { animation-delay: 1.5s; }
-    .delay-3 { animation-delay: 2.5s; }
-    .delay-4 { animation-delay: 3.5s; }
-  </style>
-
-  <text x="490" y="90" text-anchor="middle" class="title">---- PLAYER STATUS: WADJIH ----</text>
-
-  <g transform="translate(150, 160)">
-    <text class="label">RANK:</text>
-    <text x="100" class="content typing delay-1" style="fill:#00FF94">S-RANK (Computer Science)</text>
-    
-    <text y="40" class="label">CLASS:</text>
-    <text x="100" y="40" class="content typing delay-2">System Architect / Shadow Monarch</text>
-    
-    <text y="80" class="label">TITLE:</text>
-    <text x="100" y="80" class="content typing delay-3 s-rank-glow" style="fill:#BC13FE; filter: url(#purpleGlow);">The Relentless Executor</text>
+  <g filter="url(#purpleGlow)">
+    <path d="M100 50 L50 50 L50 150 M50 450 L50 550 L150 550 M830 550 L930 550 L930 450 M930 150 L930 50 L830 50" 
+          stroke="#BC13FE" stroke-width="4" fill="none">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path d="M250 40 L730 40 M250 570 L730 570" stroke="#BC13FE" stroke-width="1.5" opacity="0.5" />
   </g>
 
-  <g transform="translate(150, 300)">
-    <text class="label" style="fill:#FFC700">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
-    <rect y="25" width="680" height="12" rx="6" fill="#1A1A1A" stroke="#E0F7FF" stroke-opacity="0.2"/>
-    <rect y="25" width="0" height="12" rx="6" fill="#BC13FE" filter="url(#purpleGlow)">
-      <animate attributeName="width" from="0" to="510" dur="2s" begin="4s" fill="freeze" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+    
+    .title { font-family: 'Orbitron', sans-serif; fill: #00D1FF; font-size: 26px; font-weight: bold; letter-spacing: 5px; filter: url(#cyanGlow); }
+    .label { font-family: 'Share Tech Mono', monospace; fill: #00D1FF; font-size: 18px; font-weight: bold; letter-spacing: 1px; }
+    .content { font-family: 'Share Tech Mono', monospace; fill: #E0F7FF; font-size: 18px; }
+    
+    @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+      20%, 22%, 24%, 55% { opacity: 0.4; }
+    }
+    .glitch { animation: flicker 5s infinite; }
+  </style>
+
+  <text x="490" y="90" text-anchor="middle" class="title">── PLAYER STATUS: WADJIH ──</text>
+
+  <g transform="translate(150, 170)">
+    <g clip-path="url(#clip1)">
+      <text class="label">RANK:</text>
+      <text x="100" class="content" style="fill:#00FF94">S-RANK (Student/Developer)</text>
+    </g>
+    
+    <g transform="translate(0, 45)" clip-path="url(#clip2)">
+      <text class="label">CLASS:</text>
+      <text x="100" class="content">System Architect / Shadow Monarch</text>
+    </g>
+    
+    <g transform="translate(0, 90)" clip-path="url(#clip3)">
+      <text class="label">TITLE:</text>
+      <text x="100" class="content glitch" style="fill:#BC13FE; filter: url(#purpleGlow);">The Relentless Executor</text>
+    </g>
+  </g>
+
+  <g transform="translate(150, 320)">
+    <text class="label" style="fill:#FFC700; font-family: 'Orbitron'; font-size: 15px;">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
+    <rect y="25" width="680" height="10" rx="5" fill="#111" stroke="#00D1FF" stroke-opacity="0.2"/>
+    <rect y="25" width="0" height="10" rx="5" fill="#BC13FE" filter="url(#purpleGlow)">
+      <animate attributeName="width" from="0" to="480" dur="2s" begin="3.5s" fill="freeze" />
     </rect>
   </g>
 
-  <g transform="translate(150, 400)">
+  <g transform="translate(150, 420)" clip-path="url(#clip4)">
     <text class="label" style="text-decoration: underline;">ACTIVE SKILLS:</text>
-    <text y="35" class="content typing delay-4">▶ C++17 Hardcoding (Lvl. 92)</text>
-    <text y="70" class="content typing delay-4" style="animation-delay: 4s;">▶ Java Clean Architecture (Lvl. 88)</text>
+    <text y="35" class="content">▶ C++17 Hardcoding (Lvl. 92)</text>
+    <text y="70" class="content">▶ Java &amp; Clean Architecture (Lvl. 88)</text>
+    <text y="105" class="content">▶ System Design &amp; Logic (Lvl. 80)</text>
   </g>
 
-  <text x="490" y="540" text-anchor="middle" class="content" font-style="italic" font-size="16" opacity="0">
+  <text x="490" y="560" text-anchor="middle" class="content" font-style="italic" font-size="15" opacity="0">
     "Execution is the only thing that matters."
-    <animate attributeName="opacity" from="0" to="0.7" dur="1s" begin="5s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="0.6" dur="1s" begin="5s" fill="freeze" />
   </text>
 </svg>
