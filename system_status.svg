@@ -1,0 +1,58 @@
+<svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="8" width="960" height="600" rx="15" fill="#050B14" stroke="#00D1FF" stroke-width="3"/>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    .system-font { font-family: 'Share Tech Mono', monospace; }
+    .label { fill: #00D1FF; font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; }
+    .content { fill: #E0F7FF; font-size: 16px; opacity: 0; }
+    .highlight { fill: #7B2CBF; font-weight: bold; filter: drop-shadow(0 0 5px #7B2CBF); }
+    
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes scanline { from { transform: translateY(0); } to { transform: translateY(580px); } }
+    
+    .f1 { animation: fadeIn 0.5s ease forwards 0.5s; }
+    .f2 { animation: fadeIn 0.5s ease forwards 1.2s; }
+    .f3 { animation: fadeIn 0.5s ease forwards 2.0s; }
+    .f4 { animation: fadeIn 0.5s ease forwards 2.8s; }
+  </style>
+
+  <rect x="10" y="8" width="960" height="5" fill="#00D1FF" fill-opacity="0.1">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 590" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="490" y="50" text-anchor="middle" class="system-font label" font-size="22">── PLAYER STATUS: WADJIH ──</text>
+  
+  <g transform="translate(50, 100)">
+    <text class="system-font label">Rank:</text>
+    <text x="120" class="system-font content f1" style="fill:#00FF94">S-RANK (Student/Developer)</text>
+    
+    <text y="40" class="system-font label">Class:</text>
+    <text x="120" y="40" class="system-font content f1">System Architect / Shadow Monarch</text>
+    
+    <text y="80" class="system-font label">Title:</text>
+    <text x="120" y="80" class="system-font content f1" fill="#7B2CBF">The Relentless Executor</text>
+  </g>
+
+  <g transform="translate(50, 240)">
+    <text class="system-font label" fill="#FFC700">[ DAILY QUEST: THE PATH TO SPECIALIST ]</text>
+    <text y="35" class="system-font content f2">- Solve 3 Project Euler Problems [3/3]</text>
+    <text y="65" class="system-font content f2">- Refactor Clean Architecture Module [1/1]</text>
+    <text y="95" class="system-font content f2">- Physical Training: Strength &amp; Grit [DONE]</text>
+    <rect y="110" width="400" height="10" rx="5" fill="#1A1A1A"/>
+    <rect y="110" width="320" height="10" rx="5" fill="#00FF94" class="f2"/>
+  </g>
+
+  <g transform="translate(550, 100)">
+    <text class="system-font label">Active Skills:</text>
+    <text y="35" class="system-font content f3">▶ Java Ecosystem (Lvl. 85)</text>
+    <text y="65" class="system-font content f3">▶ C++ Hardcoding (Lvl. 92)</text>
+    <text y="95" class="system-font content f3">▶ System Design (Lvl. 78)</text>
+    <text y="125" class="system-font content f3">▶ Logic Execution (MAX)</text>
+  </g>
+
+  <g transform="translate(50, 500)">
+    <text class="system-font label" font-size="14" fill="#E0F7FF" opacity="0.6">System Notice:</text>
+    <text y="30" class="system-font content f4" fill="#00D1FF" font-size="18">"Execution is the only thing that matters. Don't stop until you reach the top."</text>
+  </g>
+</svg>
