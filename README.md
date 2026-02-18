@@ -79,7 +79,5 @@ Beyond the screen, I apply the same intensity to sports and physical training. *
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wadjihcs&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br>
-<p align="center">
-  <img src="./status.svg?v=3" width="100%" />
-</p>
+<p>"Execution is the only thing that matters."</p>
 </p>
